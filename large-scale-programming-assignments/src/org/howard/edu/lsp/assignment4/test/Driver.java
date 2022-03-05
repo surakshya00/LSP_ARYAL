@@ -2,7 +2,7 @@ package org.howard.edu.lsp.assignment4.test;
 
 /**
  * tests the functionality of our function
- * @author surakshyaaryal
+ * @author surakshyaa
  */
 
 import java.util.*;
